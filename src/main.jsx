@@ -6,7 +6,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 
-import 'swiper/css';
+import 'swiper/swiper.min.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.min.js';
 import '././assets/css/icofont.min.css';
